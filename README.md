@@ -5,7 +5,7 @@
 ![ChatRRG screenshot](https://res.cloudinary.com/dm7y3yvjp/image/upload/v1712272557/chatRRG-screenshot_dbpb2a.png)
 
 
-Chat RRG is an application that allows users to interact with OpenAI's ChatGPT directly using their own OpenAI API key. This application is built using Next.js, a popular React framework, and connects to the OpenAI API to provide a seamless chat experience.
+ChatRRG is an application that allows users to interact with OpenAI's ChatGPT directly using their own OpenAI API key. This application is built using Next.js, a popular React framework, and connects to the OpenAI API to provide a seamless chat experience.
 
 ## Key Features
 
@@ -17,7 +17,7 @@ Chat RRG is an application that allows users to interact with OpenAI's ChatGPT d
 
 ## Getting Started
 
-To get started with Chat RRG, you'll need to have Node.js and npm installed on your machine. Once you have these, follow the steps below:
+To get started with ChatRRG, you'll need to have Node.js and npm installed on your machine. Once you have these, follow the steps below:
 
 1. Clone the repository to your local machine using `git clone`.
 
